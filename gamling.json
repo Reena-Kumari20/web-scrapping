@@ -1,0 +1,40 @@
+{
+    "Rating": {
+        "Offers": "4.43",
+        "Payment": "4.43",
+        "Tracking": "4.14",
+        "Support": "4.29"
+    },
+    "contact": {
+        "Email": "show email]",
+        "Phone": "n/a",
+        "Twitter": "n/a",
+        "Facebook": "Fanpage"
+    },
+    "tracking": {
+        "Tracking Domain(s)": "n/a"
+    },
+    "Offers": {
+        "Commission Type": [
+            "CPA",
+            "Revshare"
+        ],
+        "Network Extras": [
+            "Mobile Optimized ",
+            "IncentiveFriendly"
+        ]
+    },
+    "payment": {
+        "Payment Frequency": [
+            "Weekly"
+        ],
+        "Payment Delay": [
+            "Net 7",
+            "Net 15"
+        ],
+        "Payment Method": [
+            "WebMoney",
+            "Capitalist"
+        ]
+    }
+}
